@@ -1,0 +1,18 @@
+.DS_Store
+
+# Ignore bundler config
+/.bundle
+
+# Ignore all logfiles and tempfiles.
+/log/*
+/tmp
+.sass-cache
+
+# Ignore private files
+/private
+
+# Ignore Gemfile.lock so everyone clones this repo should run bundle
+Gemfile.lock
+
+# Simplecov report
+/coverage
